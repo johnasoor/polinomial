@@ -1,0 +1,2 @@
+# polinomial
+c++ project
